@@ -1,0 +1,15 @@
+{
+	"1": {
+		"name": "Goodness Okoye",
+		"department": "Computer Science",
+		"level": 400
+	},
+	"2": {
+		"name": "Goody",
+		"type": "robot"
+	},
+	"3": {
+		"name": "Goody",
+		"type": "robot"
+	}
+}
